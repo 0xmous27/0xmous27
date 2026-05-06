@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&repeat=true&width=700&lines=%24+whoami+%E2%86%92+Penetration+Tester;%24+cat+passion.txt+%E2%86%92+Breaking+%26+Understanding+Systems;%24+status+%E2%86%92+HTB+CPTS+Candidate+%5BActive%5D;%24+motto+%E2%86%92+Root+is+not+the+goal.+Understanding+is.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&repeat=true&width=700&lines=%24+whoami+%E2%86%92+Penetration+Tester;%24+cat+passion.txt+%E2%86%92+Breaking+%26+Understanding+Systems;%24+nmap+-sV+--open+-p-+target+%E2%86%92+%5BSCAN+RUNNING%5D;%24+motto+%E2%86%92+Root+is+not+the+goal.+Understanding+is.;%24+find+/+-perm+-4000+2%3E%2Fdev%2Fnull+%E2%86%92+%5BPRIVESC+HUNTING%5D)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,9 +18,9 @@
 
   NAME     : 0xmous27
   ROLE     : Penetration Tester
-  FOCUS    : Web · AD · Red Team
-  CERT     : HTB CPTS [In Progress]
-  PLATFORM : HackTheBox | TryHackMe
+  FOCUS    : Web · AD · Red Team · Evasion
+  CERT     : HTB CPTS | OSCP Path
+  PLATFORM : HackTheBox | VulnHub | PG Practice
   MOTTO    : "Enumerate more."
 
 ┌──(0xmous27㉿kali)-[~]
@@ -118,7 +118,8 @@
 <div align="center">
 
 [![HTB](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/0xmous27)
-[![HTB Academy](https://img.shields.io/badge/HTB_Academy-CPTS_Path-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://academy.hackthebox.com)
+[![VulnHub](https://img.shields.io/badge/VulnHub-Machines-E74C3C?style=for-the-badge&logoColor=white)](https://www.vulnhub.com)
+[![PG Practice](https://img.shields.io/badge/OffSec_PG-Practice-blue?style=for-the-badge&logoColor=white)](https://portal.offsec.com/labs/practice)
 
 </div>
 
