@@ -38,8 +38,7 @@ I'm **`0xmous27`**, a penetration tester and security tool builder. I break syst
 ## 📊 GitHub Stats
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xmous27&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9" />
-<img width="49%" src="https://streak-stats.demolab.com?user=0xmous27&theme=dark&hide_border=true&background=0D0D0D&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=00CC77&dates=444444" />
+<img width="60%" src="https://streak-stats.demolab.com?user=0xmous27&theme=dark&hide_border=true&background=0D0D0D&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=00CC77&dates=444444" />
 </div>
 
 <br/>
