@@ -52,17 +52,6 @@ I'm **`0xmous27`**, a penetration tester and security tool builder. I break syst
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xmous27/0xmous27/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/0xmous27/0xmous27/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-</div>
-
----
-
 <div align="center">
 
 **"Never give up. Never back down."** 🔥
