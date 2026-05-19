@@ -4,13 +4,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=600&lines=%24+whoami+→+pentester+%2F+builder;%24+cat+/etc/shadow+→+ACCESS+GRANTED;%24+./shellcast+start+engagement;%24+root+is+not+the+goal.+understanding+is.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=550&lines=%24+whoami+→+pentester+%2F+builder;%24+cat+/etc/shadow+→+ACCESS+GRANTED;%24+root+is+not+the+goal.+understanding+is.)](https://git.io/typing-svg)
 
 </div>
-
-<br/>
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
 ```zsh
 ┌──(0xmous27㉿kali)-[~]
@@ -34,39 +30,6 @@
 
 └─$ █
 ```
-
-<br clear="right"/>
-
----
-
-## ⚡ Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### [ShellCast](https://github.com/0xmous27/shellcast)
-Terminal session evidence recorder. Record, search, generate report-ready PNG screenshots.
-
-```bash
-go install -v github.com/0xmous27/shellcast/cmd@latest
-```
-
-`Go` · `SQLite` · `Single Binary` · `Zero Config`
-
-</td>
-<td width="50%">
-
-### [HTB Intel](https://github.com/0xmous27/htb-intel)
-Hacker-themed pentest reference platform. 700+ techniques, 22 tabs, live target injection.
-
-🌐 [htb-intel.vercel.app](https://htb-intel.vercel.app)
-
-`React` · `TypeScript` · `Supabase` · `Vercel`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -95,6 +58,10 @@ Hacker-themed pentest reference platform. 700+ techniques, 22 tabs, live target 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=0xmous27&theme=dark&hide_border=true&background=0D0D0D&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=00CC77&dates=444444&stroke=111111)](https://git.io/streak-stats)
 
+</div>
+
+<div align="center">
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xmous27&bg_color=0d0d0d&color=00ff99&line=00cc77&point=00ff99&area=true&hide_border=true)
 
 </div>
@@ -104,11 +71,7 @@ Hacker-themed pentest reference platform. 700+ techniques, 22 tabs, live target 
 <div align="center">
 
 ```
- ┌─────────────────────────────────────────┐
- │  "The quieter you become,               │
- │   the more you are able to hear."       │
- │                          — Kali Linux   │
- └─────────────────────────────────────────┘
+ "The quieter you become, the more you are able to hear."
 ```
 
 ![visitors](https://komarev.com/ghpvc/?username=0xmous27&color=00ff99&style=flat-square&label=visitors)
