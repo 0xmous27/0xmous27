@@ -1,64 +1,48 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:00ff99&height=150&section=header&text=0xmous27&fontSize=60&fontColor=00ff99&fontAlignY=55&animation=twinkling&desc=offensive+security+%7C+tool+builder&descAlignY=78&descSize=16&descColor=00cc77"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:00ff99&height=180&section=header&text=0xmous27&fontSize=70&fontColor=00ff99&fontAlignY=45&animation=twinkling&desc=Penetration+Tester+%7C+Security+Researcher+%7C+Tool+Builder&descAlignY=72&descSize=18&descColor=00cc77"/>
 </div>
 
-<div align="center">
+## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=550&lines=%24+whoami+→+pentester+%2F+builder;%24+cat+/etc/shadow+→+ACCESS+GRANTED;%24+root+is+not+the+goal.+understanding+is.)](https://git.io/typing-svg)
+I'm **`0xmous27`**, a penetration tester and security tool builder. I break systems to understand them, then build tools so others can do it better.
 
-</div>
-
-```zsh
-┌──(0xmous27㉿kali)-[~]
-└─$ ./about.sh
-
-  ROLE     → Penetration Tester & Tool Builder
-  FOCUS    → Web · AD · Red Team · Evasion
-  CERT     → HTB CPTS Path
-  STACK    → Go · Python · React · Bash
-  MOTTO    → "Enumerate more. Assume nothing."
-
-┌──(0xmous27㉿kali)-[~]
-└─$ cat /proc/skills
-
-  RECON       ████████████░░  85%
-  WEB ATTACKS ████████████░░  85%
-  ACTIVE DIR  ██████████░░░░  75%
-  PRIVESC     ███████████░░░  80%
-  TOOL DEV    ██████████░░░░  75%
-  EVASION     █████████░░░░░  70%
-
-└─$ █
-```
+- 🔭 **Focus**: Web Exploitation · Active Directory · Red Team · Evasion
+- 🛠️ **Building**: Security tools in Go & Python
+- 🎓 **Path**: HTB CPTS
+- 📫 **Reach me**: [GitHub](https://github.com/0xmous27)
+- ⚡ **Motto**: *"Root is not the goal. Understanding is."*
 
 ---
 
-## 🔧 Arsenal
+## 🛡️ Knowledge & Skills
 
 <div align="center">
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000)](https://www.kali.org)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000)](https://go.dev)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000)](https://python.org)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&color=000000)](https://www.gnu.org/software/bash/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&color=000000)](https://www.typescriptlang.org)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&color=000000)](https://portswigger.net)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&color=000000)](https://www.metasploit.com)
+[![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&color=000000)](https://nmap.org)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&color=000000)](https://www.wireshark.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000)](https://www.docker.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000)](https://git-scm.com)
 
 </div>
 
 ---
 
-## 📈 Stats
+## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=0xmous27&theme=dark&hide_border=true&background=0D0D0D&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=00CC77&dates=444444&stroke=111111)](https://git.io/streak-stats)
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xmous27&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9" />
+<img width="49%" src="https://streak-stats.demolab.com?user=0xmous27&theme=dark&hide_border=true&background=0D0D0D&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=00CC77&dates=444444" />
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -68,14 +52,20 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/0xmous27/0xmous27/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
+</div>
+
+---
+
 <div align="center">
 
-```
- "The quieter you become, the more you are able to hear."
-```
+**"Never give up. Never back down."** 🔥
 
-![visitors](https://komarev.com/ghpvc/?username=0xmous27&color=00ff99&style=flat-square&label=visitors)
+![visitors](https://komarev.com/ghpvc/?username=0xmous27&color=00ff99&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:001a00,100:000000&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:001a00,100:000000&height=100&section=footer"/>
