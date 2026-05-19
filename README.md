@@ -53,6 +53,12 @@ I'm **`0xmous27`**, a penetration tester and security tool builder. I break syst
 ---
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+---
+
+<div align="center">
 
 **"Never give up. Never back down."** 🔥
 
