@@ -8,7 +8,7 @@ I'm **`0xmous27`**, a penetration tester and security tool builder. I break syst
 
 - 🔭 **Focus**: Web Exploitation · Active Directory · Red Team · Evasion
 - 🛠️ **Building**: Security tools in Go & Python
-- 🎓 **Path**: HTB CPTS
+- 🎓 **Path**: Pentest
 - 📫 **Reach me**: [GitHub](https://github.com/0xmous27)
 - ⚡ **Motto**: *"Root is not the goal. Understanding is."*
 
